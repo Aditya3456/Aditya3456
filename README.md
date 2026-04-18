@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Gupta
 - 👀 I’m interested in Web Development, python/c/c++ programming, Spark AR, cyber security.
-- 🌱 I’m currently learning DSA.
+- 🌱 I’m currently learning Agentic AI.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
